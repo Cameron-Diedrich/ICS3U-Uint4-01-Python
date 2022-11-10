@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by: Cameron Diedrich
-# Created on: Sep 2021
+# Created on: Nov 2022
 # This program adds each whole number that goes up to the users number
 
 
